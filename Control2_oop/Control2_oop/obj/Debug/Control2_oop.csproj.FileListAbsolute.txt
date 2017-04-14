@@ -1,0 +1,6 @@
+D:\Anna\Control2_oop\Control2_oop\bin\Debug\Control2_oop.exe.config
+D:\Anna\Control2_oop\Control2_oop\bin\Debug\Control2_oop.exe
+D:\Anna\Control2_oop\Control2_oop\bin\Debug\Control2_oop.pdb
+D:\Anna\Control2_oop\Control2_oop\obj\Debug\Control2_oop.csprojResolveAssemblyReference.cache
+D:\Anna\Control2_oop\Control2_oop\obj\Debug\Control2_oop.exe
+D:\Anna\Control2_oop\Control2_oop\obj\Debug\Control2_oop.pdb
